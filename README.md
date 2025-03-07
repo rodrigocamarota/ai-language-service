@@ -17,13 +17,12 @@ Este repositório foi criado para explorar como a inteligência artificial pode 
 
 ## Resultados e Insights
 - **Análise da IA**: 
-  - A primeira sentença tem um tom positivo e otimista ("empolgado com as oportunidades").
-  - A segunda mostra insegurança e medo ("medo de não acompanhar").
-  - A terceira mistura positividade ("dia amanheceu lindo") com cansaço ("exausto").
-  - A quarta combina animação ("aprender algo novo me anima") com frustração ("pressão é desgastante").
+  - A IA analisou identificou que 63% do conteúdo era positivo, 24% negativo e 13% neutro.
+    
 - **Possibilidades aprendidas**:
   - A IA consegue detectar nuances emocionais em textos curtos, o que pode ser útil em chatbots ou análise de feedback.
   - Esse tipo de análise pode ajudar a personalizar respostas em sistemas automatizados, dependendo do estado emocional identificado.
+    
 - **Capturas de tela**: ![image](https://github.com/user-attachments/assets/be16518e-95ab-4c21-ab03-bd701dab19f5)
 
 
